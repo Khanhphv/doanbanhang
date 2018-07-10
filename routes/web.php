@@ -10,7 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-edit lan2
+edit lan2sdsdsdsdsdssd
 Route::get('/', function () {
     return view('welcome');
 });
