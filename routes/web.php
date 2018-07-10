@@ -10,6 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+commit lan 1
 
 Route::get('/', function () {
     return view('welcome');
